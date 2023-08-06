@@ -1,0 +1,3 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as n,c as i,a as t}from"./app.9b10ba0a.js";const s={},a=t(`<p>经过前面的操作，我们会发现，如果想要启动、关闭或重新加载nginx配置文件，都需要先进入到nginx的安装目录的sbin目录，然后使用nginx的二级制可执行文件来操作，相对来说操作比较繁琐，这块该如何优化？另外如果我们想把Nginx设置成随着服务器启动就自动完成启动操作，又该如何来实现?这就需要用到接下来我们要讲解的两个知识点：</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>Nginx配置成系统服务
+Nginx命令配置到系统环境
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),_=[a];function c(r,d){return n(),i("div",null,_)}const x=e(s,[["render",c],["__file","五、Nginx服务操作的问题.html.vue"]]);export{x as default};
